@@ -1,0 +1,13 @@
+C:\Users\yllek\source\repos\Lab7_Reg_Expressions\Lab7_Reg_Expressions\bin\Debug\netcoreapp3.1\Lab7_Reg_Expressions.exe
+C:\Users\yllek\source\repos\Lab7_Reg_Expressions\Lab7_Reg_Expressions\bin\Debug\netcoreapp3.1\Lab7_Reg_Expressions.deps.json
+C:\Users\yllek\source\repos\Lab7_Reg_Expressions\Lab7_Reg_Expressions\bin\Debug\netcoreapp3.1\Lab7_Reg_Expressions.runtimeconfig.json
+C:\Users\yllek\source\repos\Lab7_Reg_Expressions\Lab7_Reg_Expressions\bin\Debug\netcoreapp3.1\Lab7_Reg_Expressions.runtimeconfig.dev.json
+C:\Users\yllek\source\repos\Lab7_Reg_Expressions\Lab7_Reg_Expressions\bin\Debug\netcoreapp3.1\Lab7_Reg_Expressions.dll
+C:\Users\yllek\source\repos\Lab7_Reg_Expressions\Lab7_Reg_Expressions\bin\Debug\netcoreapp3.1\Lab7_Reg_Expressions.pdb
+C:\Users\yllek\source\repos\Lab7_Reg_Expressions\Lab7_Reg_Expressions\obj\Debug\netcoreapp3.1\Lab7_Reg_Expressions.AssemblyInfoInputs.cache
+C:\Users\yllek\source\repos\Lab7_Reg_Expressions\Lab7_Reg_Expressions\obj\Debug\netcoreapp3.1\Lab7_Reg_Expressions.AssemblyInfo.cs
+C:\Users\yllek\source\repos\Lab7_Reg_Expressions\Lab7_Reg_Expressions\obj\Debug\netcoreapp3.1\Lab7_Reg_Expressions.csproj.CoreCompileInputs.cache
+C:\Users\yllek\source\repos\Lab7_Reg_Expressions\Lab7_Reg_Expressions\obj\Debug\netcoreapp3.1\Lab7_Reg_Expressions.dll
+C:\Users\yllek\source\repos\Lab7_Reg_Expressions\Lab7_Reg_Expressions\obj\Debug\netcoreapp3.1\Lab7_Reg_Expressions.pdb
+C:\Users\yllek\source\repos\Lab7_Reg_Expressions\Lab7_Reg_Expressions\obj\Debug\netcoreapp3.1\Lab7_Reg_Expressions.genruntimeconfig.cache
+C:\Users\yllek\source\repos\Lab7_Reg_Expressions\Lab7_Reg_Expressions\obj\Debug\netcoreapp3.1\Lab7_Reg_Expressions.csprojAssemblyReference.cache
